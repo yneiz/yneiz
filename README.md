@@ -1,16 +1,33 @@
-### Hi there 👋
+# 信息素养实践课的作用
 
-<!--
-**yneiz/yneiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+信息素养课能够帮助学生更好地学习、记忆上课时学习到的东西，比如搜索引擎[百度](https://www.baidu.com)的使用等等。实践的同时还能提高学生对电脑的熟悉程度，如果遇到问题还可以随时向老师提问，*相对于自己研究省下了不少时间*。
 
-Here are some ideas to get you started:
+## 信息素养实践课的内容
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+信息素养的本质是全球信息化需要人们具备的一种基本能力，信息素养实践课极大的提高了我们对计算机的熟练度，对于以后的*学习*和*工作*有很大的帮助，**对技术的理解、认识和使用技能的强调**，是一种能力，处理信息能力有极大提升，能对收集的信息进行归纳、分类、储存记忆、鉴别、分析综合、抽象概括和表达等。能自觉抵御和消除立即信息及有害信息的干扰和侵蚀，并且完善合乎时代的信息伦理素养。寻找、选择、整理和储存各种有用的信息，言简意赅地将所获得的信息从一种形式转变为另一种形式。
+
+### 信息素养实践课的练习内容
+
+```
+a = 10
+print(a)
+```
+
+````print("hello")````
+
+| 学号       | 信息素养实践课成绩 |
+| ---------- | ------------------ |
+| 2020012300 | 10分               |
+
+常用搜索引擎目录
+
+* [搜狗](www.sogou.com);
+
+* [百度](www.baidu.com);
+
+* [必应](www.bing.com)。
+
+  
+
+  5班 祁瑞博 2020012300
+
